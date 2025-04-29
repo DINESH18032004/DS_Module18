@@ -16,8 +16,8 @@ cities.
 ```
 /*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: KANISHKAR M
-RegisterNumber: 212222240044
+Developed by: DINESH KUMAR R
+RegisterNumber: 212222110010
 */
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
